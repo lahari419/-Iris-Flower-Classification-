@@ -37,5 +37,5 @@ K-Nearest Neighbors (KNN)
 
 ## Author
 
-Your Name
+Lahari Matta
 
